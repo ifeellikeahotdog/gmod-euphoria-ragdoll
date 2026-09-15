@@ -1,0 +1,13 @@
+{
+  "title": "Euphoria Ragdoll System",
+  "description": "Advanced ragdoll physics with Euphoria-accurate reactions, environmental awareness, and intelligent decision-making",
+  "author": "Euphoria Dev",
+  "version": "1.0.0",
+  "type": "tool",
+  "tags": ["ragdoll", "physics", "ai", "euphoria"],
+  "ignore": [
+    "*.psd",
+    ".git",
+    ".gitignore"
+  ]
+}
